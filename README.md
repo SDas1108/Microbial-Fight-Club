@@ -1,8 +1,14 @@
 # Microbial-Fight-Club
 This repository contains MATLAB code used to simulate 2-species competition,
 logistic growth, and LV interaction dynamics as shown in my LinkedIn video.
+It has a Generalized Lotka Voltera Equation. Use it to simulate dynamical behaviour in poplation densities and fractions by selecting different growth rates, carrying capacities and interactions parameters.
 
-Generalized Lotka Voltera Equation. Use it to simulate dynamical behaviour in poplation densities and fractions by selecting different growth rates, carrying capacities and interactions parameters.
+
+Procedure :
+- Download the files
+- Go to MATLAB
+- Select Run
+
 
 Includes:
 - Logistic growth model
